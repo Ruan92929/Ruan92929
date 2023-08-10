@@ -1,8 +1,6 @@
 ## Olá eu sou o Ruan Costa!
 
-- 📚 Estudante de Analise e Desenvolvimento de Sistemas
--	📙 Atualmente estudando Javascript
--	💻 Foco em desenvolvimento web full stack
+-	💻 Backend developer
 
 <div align="center">
   <a href="https://github.com/Ruan92929">
