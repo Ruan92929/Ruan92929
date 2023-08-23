@@ -12,7 +12,9 @@
 
 
 <div style="display: inline_block"><br>
- <i class="devicon-csharp-plain"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
  
 </div>
   
