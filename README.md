@@ -13,8 +13,7 @@
 
 <div style="display: inline_block"><br>
 
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Icon" height="40" width="40" />
-          
+   
      
 </div>
   
