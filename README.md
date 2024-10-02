@@ -1,6 +1,6 @@
 ## Olá eu sou o Ruan Costa!
 
--	💻 Backend developer
+-	💻 Full-Stack Developer
 
 <div align="center">
   <a href="https://github.com/Ruan92929">
